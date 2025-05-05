@@ -20,6 +20,13 @@
 ### Installation
 Paste following command in Termux
 ```bash
-curl https://github.com/Yohanhack/modded-distro >> install.sh
-bash install.sh
+git clone https://github.com/Yohanhack/modded-distro
+
+cd modded-distro
+
+cp install.sh ~/
+
+cd
+
+bash insall.sh
 ```
