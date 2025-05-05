@@ -9,7 +9,7 @@
 ### Video Guide Here
 [![IMAGE](https://raw.githubusercontent.com/TecnicalBot/modded-distro/main/images/thumbnail.jpg)](https://youtube.com/@yohan_hack?feature=shared)
 
-### Tested on Android 12
+### Tested on Android 10
 
 ### Prerequisite
 - Android device (No Root Required)
@@ -20,6 +20,6 @@
 ### Installation
 Paste following command in Termux
 ```bash
-curl https://github.com/YohanHack/modded-distro/main/install.sh >> install.sh
+curl https://github.com/Yohanhack/modded-distro >> install.sh
 bash install.sh
 ```
